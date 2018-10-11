@@ -1,0 +1,29 @@
+{
+  "name": "vue-deep-diff-apply",
+  "version": "1.0.0",
+  "description": "Apply deep-diff changes array to Vue reactive data",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yarsky-tgz/vue-deep-diff-apply.git"
+  },
+  "keywords": [
+    "vue",
+    "deep-diff",
+    "undo",
+    "redo"
+  ],
+  "author": "Yaroslav Dobzhanskij <merlyn.tgz@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yarsky-tgz/vue-deep-diff-apply/issues"
+  },
+  "homepage": "https://github.com/yarsky-tgz/vue-deep-diff-apply#readme",
+  "devDependencies": {
+    "typescript": "^3.1.2",
+    "vue": "^2.5.17"
+  }
+}

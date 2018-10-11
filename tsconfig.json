@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "outDir": "dist",
+    "sourceMap": true,
+    "strict": true,
+    "lib": [ "es2015", "dom" ],
+    "module": "es2015",
+    "moduleResolution": "node",
+    "target": "ESNext"
+  },
+  "include": ["./**/*"],
+  "exclude": [
+    "node_modules"
+  ]
+}
